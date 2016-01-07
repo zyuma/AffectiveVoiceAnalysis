@@ -1,0 +1,8 @@
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\bin\Debug With C-Sharp Logic\VB6PictureControlEmu.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\bin\Debug With C-Sharp Logic\VB6PictureControlEmu.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\obj\Debug With C-Sharp Logic\ResolveAssemblyReference.cache
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\obj\Debug With C-Sharp Logic\VB6PictureControlEmu.Resources.resources
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\obj\Debug With C-Sharp Logic\VB6PictureControlEmu.PictureBox.resources
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\obj\Debug With C-Sharp Logic\VB6PictureControlEmu.vbproj.GenerateResource.Cache
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\obj\Debug With C-Sharp Logic\VB6PictureControlEmu.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\Common\VB6PictureControlEmu\obj\Debug With C-Sharp Logic\VB6PictureControlEmu.pdb

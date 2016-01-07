@@ -1,0 +1,54 @@
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Emotion2 - Copy\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\Teste\Desktop\Emotion2 - Copy\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Emotion2 - Copy\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Emotion2 - Copy\nmsVoiceAnalysisLibrary\bin\Debug\Interop.QA5COM.dll
+C:\Users\Teste\Desktop\Emotion2 - Copy\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Teste\Desktop\Emotion2 - Copy\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Emotion2 - Copy\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Model 3 - Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\Teste\Desktop\Model 3 - Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Model 3 - Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Model 3 - Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\Interop.QA5COM.dll
+C:\Users\Teste\Desktop\Model 3 - Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Teste\Desktop\Model 3 - Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Model 3 - Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Model_3-RealtimeRecognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\Teste\Desktop\Model_3-RealtimeRecognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Model_3-RealtimeRecognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Model_3-RealtimeRecognition\nmsVoiceAnalysisLibrary\bin\Debug\Interop.QA5COM.dll
+C:\Users\Teste\Desktop\Model_3-RealtimeRecognition\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Teste\Desktop\Model_3-RealtimeRecognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Model_3-RealtimeRecognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\Teste\Desktop\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\Interop.QA5COM.dll
+C:\Users\Teste\Desktop\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Teste\Desktop\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\Interop.QA5COM.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Model3-Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Realtime Recognition\nmsVoiceAnalysisLibrary\bin\Debug\Interop.QA5COM.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Realtime Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Real-time Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Real-time Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Real-time Recognition\nmsVoiceAnalysisLibrary\bin\Debug\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Real-time Recognition\nmsVoiceAnalysisLibrary\bin\Debug\Interop.QA5COM.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Real-time Recognition\nmsVoiceAnalysisLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Real-time Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\Real-time Recognition\nmsVoiceAnalysisLibrary\obj\Debug\nmsVoiceAnalysisLibrary.pdb

@@ -1,0 +1,56 @@
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\user\Desktop\Bijan's Work\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Users\maurizio\misc\Desktop\Brian's Card Game\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\maurizio\misc\Desktop\Brian's Card Game\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Users\maurizio\misc\Desktop\Brian's Card Game\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Users\maurizio\misc\Desktop\Brian's Card Game\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\maurizio\misc\Desktop\Brian's Card Game\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\maurizio\misc\Desktop\Brian's Card Game\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 3\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 3\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 3\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 3\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 3\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 3\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 4\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 4\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 4\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 4\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 4\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 4\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 6\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 6\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\Jeanie\Desktop\Brian's Card Game 6\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\user\Desktop\Brian's Card Game 11\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jai\Desktop\Brian's Card Game 12\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jai\Desktop\Brian's Card Game 12\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\jai\Desktop\Brian's Card Game 12\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\jai\Desktop\Brian's Card Game 12\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Users\jai\Desktop\Brian's Card Game 12\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Users\jai\Desktop\Brian's Card Game 12\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\jai\Desktop\Brian's Card Game 12\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\user\Desktop\Brian's Card Game 13\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll.config
+C:\Documents and Settings\user\Desktop\Brian's Card Game 13\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\user\Desktop\Brian's Card Game 13\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Documents and Settings\user\Desktop\Brian's Card Game 13\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Documents and Settings\user\Desktop\Brian's Card Game 13\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Brian's Card Game 13\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Documents and Settings\user\Desktop\Brian's Card Game 13\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASBLab\Desktop\nmsVoiceAnalysis\Brian's Card Game 18a\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\ASBLab\Desktop\nmsVoiceAnalysis\Brian's Card Game 18a\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASBLab\Desktop\nmsVoiceAnalysis\Brian's Card Game 18a\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Users\ASBLab\Desktop\nmsVoiceAnalysis\Brian's Card Game 18a\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Users\ASBLab\Desktop\nmsVoiceAnalysis\Brian's Card Game 18a\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ASBLab\Desktop\nmsVoiceAnalysis\Brian's Card Game 18a\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\ASBLab\Desktop\nmsVoiceAnalysis\Brian's Card Game 18a\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Emotion2\nmsVoiceAnalysisLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Teste\Desktop\Emotion2\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Emotion2\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll.config
+C:\Users\Teste\Desktop\Emotion2\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.dll
+C:\Users\Teste\Desktop\Emotion2\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.pdb
+C:\Users\Teste\Desktop\Emotion2\nmsVoiceAnalysisLibrary\bin\Release\Interop.QA5COM.dll
+C:\Users\Teste\Desktop\Emotion2\nmsVoiceAnalysisLibrary\obj\Release\nmsVoiceAnalysisLibrary.pdb

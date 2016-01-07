@@ -1,0 +1,542 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 15.00.30729.01 (188a55c3).
+//
+// c:\documents and settings\jeanie\desktop\brian's card game 4\nmsvoiceanalysisruncpp\release\nmsvoiceanalysislibrary.tlh
+//
+// C++ source equivalent of Win32 type library ..\nmsVoiceAnalysisLibrary\bin\Release\nmsVoiceAnalysisLibrary.tlb
+// compiler-generated file created 09/14/09 at 15:51:38 - DO NOT EDIT!
+
+//
+// Cross-referenced type libraries:
+//
+//  #import "c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorlib.tlb"
+//
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace nmsVoiceAnalysisLibrary {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("b648a465-836d-4e42-8116-a85be66888b8"))
+/* LIBID */ __nmsVoiceAnalysisLibrary;
+struct /* coclass */ EnvelopData;
+struct /* coclass */ ClassifySegmentArgs;
+struct /* coclass */ ClassifyCallArgs;
+struct /* coclass */ BufferDoneEventHandler;
+struct /* coclass */ WaveInRecorder;
+struct __declspec(uuid("c4729a84-7360-354a-87aa-1de0f89cb735"))
+/* dual interface */ nmsFunctions;
+struct /* coclass */ ManagedClass;
+struct /* coclass */ EmotionResults;
+struct /* coclass */ NewSegmentEmotionArgs;
+struct /* coclass */ LioNetForgetArgs;
+struct /* coclass */ FifoStream;
+struct /* coclass */ ForgetCallClassificationArgs;
+struct /* coclass */ BufferFillEventHandler;
+struct /* coclass */ WaveOutPlayer;
+enum WaveFormats;
+struct WaveFormat;
+struct /* coclass */ NewCallEmotionalArgs;
+struct /* coclass */ WaveStream;
+struct /* coclass */ SegmentClickedArgs;
+struct __declspec(uuid("692fce98-7ce4-3e49-8ad8-87dff7020f10"))
+/* dual interface */ IQA5UI;
+struct /* coclass */ FileSelectedArgs;
+struct DominantEmotion;
+struct /* coclass */ ColumnClickArgs;
+struct __declspec(uuid("02d0c499-22b0-3e11-ac69-24e2f072dbaf"))
+/* dual interface */ _EnvelopData;
+struct __declspec(uuid("3c6ff616-ec21-3807-973e-847ddddf4d31"))
+/* dual interface */ _ClassifySegmentArgs;
+struct __declspec(uuid("489e4255-9be4-36a0-b7d5-8c152e02e458"))
+/* dual interface */ _ClassifyCallArgs;
+struct __declspec(uuid("97c3b7a6-4647-362a-bc64-6cfb6cfb25f8"))
+/* dual interface */ _BufferDoneEventHandler;
+struct __declspec(uuid("d586d0d6-6a9a-323e-b086-82c2344f97b3"))
+/* dual interface */ _WaveInRecorder;
+struct __declspec(uuid("d6a9ae02-2e1d-3d35-9c07-42fd2dd0d2f7"))
+/* dual interface */ _ManagedClass;
+struct __declspec(uuid("c1b414b2-3100-3511-ba73-20342446f944"))
+/* dual interface */ _EmotionResults;
+struct __declspec(uuid("0ac96eae-817f-3d3f-9ee6-c83e2df4a6ce"))
+/* dual interface */ _NewSegmentEmotionArgs;
+struct __declspec(uuid("55dbcdc6-1faf-3693-bea5-acac33be88b6"))
+/* dual interface */ _LioNetForgetArgs;
+struct __declspec(uuid("8ab94a72-92a2-3b7b-9fc0-18eefb197528"))
+/* dual interface */ _FifoStream;
+struct __declspec(uuid("e5c6f396-9fd1-3c4e-bd81-f166fa357175"))
+/* dual interface */ _ForgetCallClassificationArgs;
+struct __declspec(uuid("04e99753-7aeb-37be-b364-90d1e9b8dec3"))
+/* dual interface */ _BufferFillEventHandler;
+struct __declspec(uuid("58c0aab8-cb49-3fb1-bd3d-97765aeab77d"))
+/* dual interface */ _WaveOutPlayer;
+struct __declspec(uuid("788ade13-ed6a-379f-ae53-0b35dd80329c"))
+/* dual interface */ _NewCallEmotionalArgs;
+struct __declspec(uuid("667ba6d8-6201-3f4a-b214-db1b2bfc3bae"))
+/* dual interface */ _WaveStream;
+struct __declspec(uuid("37916277-7e10-3f4c-945e-2ddd2c514520"))
+/* dual interface */ _SegmentClickedArgs;
+struct __declspec(uuid("a0f10ab1-8caa-3558-91e6-72c0410fc188"))
+/* dual interface */ _FileSelectedArgs;
+struct __declspec(uuid("26707998-6b8a-329a-961b-611a114cfe56"))
+/* dual interface */ _ColumnClickArgs;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(nmsFunctions, __uuidof(nmsFunctions));
+_COM_SMARTPTR_TYPEDEF(_EnvelopData, __uuidof(_EnvelopData));
+_COM_SMARTPTR_TYPEDEF(_ClassifySegmentArgs, __uuidof(_ClassifySegmentArgs));
+_COM_SMARTPTR_TYPEDEF(_ClassifyCallArgs, __uuidof(_ClassifyCallArgs));
+_COM_SMARTPTR_TYPEDEF(_BufferDoneEventHandler, __uuidof(_BufferDoneEventHandler));
+_COM_SMARTPTR_TYPEDEF(_WaveInRecorder, __uuidof(_WaveInRecorder));
+_COM_SMARTPTR_TYPEDEF(_ManagedClass, __uuidof(_ManagedClass));
+_COM_SMARTPTR_TYPEDEF(_EmotionResults, __uuidof(_EmotionResults));
+_COM_SMARTPTR_TYPEDEF(IQA5UI, __uuidof(IQA5UI));
+_COM_SMARTPTR_TYPEDEF(_NewSegmentEmotionArgs, __uuidof(_NewSegmentEmotionArgs));
+_COM_SMARTPTR_TYPEDEF(_LioNetForgetArgs, __uuidof(_LioNetForgetArgs));
+_COM_SMARTPTR_TYPEDEF(_FifoStream, __uuidof(_FifoStream));
+_COM_SMARTPTR_TYPEDEF(_ForgetCallClassificationArgs, __uuidof(_ForgetCallClassificationArgs));
+_COM_SMARTPTR_TYPEDEF(_BufferFillEventHandler, __uuidof(_BufferFillEventHandler));
+_COM_SMARTPTR_TYPEDEF(_WaveOutPlayer, __uuidof(_WaveOutPlayer));
+_COM_SMARTPTR_TYPEDEF(_NewCallEmotionalArgs, __uuidof(_NewCallEmotionalArgs));
+_COM_SMARTPTR_TYPEDEF(_WaveStream, __uuidof(_WaveStream));
+_COM_SMARTPTR_TYPEDEF(_SegmentClickedArgs, __uuidof(_SegmentClickedArgs));
+_COM_SMARTPTR_TYPEDEF(_FileSelectedArgs, __uuidof(_FileSelectedArgs));
+_COM_SMARTPTR_TYPEDEF(_ColumnClickArgs, __uuidof(_ColumnClickArgs));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("dd434b7e-b509-3498-9126-d2b0fcf382da"))
+EnvelopData;
+    // [ default ] interface _EnvelopData
+    // interface _Object
+
+struct __declspec(uuid("8639b307-3e25-311d-a2f9-58dec26bd92b"))
+ClassifySegmentArgs;
+    // [ default ] interface _ClassifySegmentArgs
+    // interface _Object
+
+struct __declspec(uuid("a4971040-9b07-317b-a279-e0e148d79a48"))
+ClassifyCallArgs;
+    // [ default ] interface _ClassifyCallArgs
+    // interface _Object
+
+struct __declspec(uuid("b5346569-45a4-3544-a5cb-8ca0e5185d3c"))
+BufferDoneEventHandler;
+    // [ default ] interface _BufferDoneEventHandler
+    // interface _Delegate
+    // interface _Object
+    // interface ICloneable
+    // interface ISerializable
+
+struct __declspec(uuid("a3df5a2c-6766-36a9-964d-c3f7ecef2790"))
+WaveInRecorder;
+    // [ default ] interface _WaveInRecorder
+    // interface _Object
+    // interface IDisposable
+
+struct __declspec(uuid("c4729a84-7360-354a-87aa-1de0f89cb735"))
+nmsFunctions : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall Initialize (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall Start ( ) = 0;
+};
+
+struct __declspec(uuid("d3d05e06-2d96-325f-8767-a278167233a3"))
+ManagedClass;
+    // [ default ] interface _ManagedClass
+    // interface _Object
+    // interface nmsFunctions
+
+struct __declspec(uuid("6f0a9037-0f7b-3b02-b26a-df12bbfab1df"))
+EmotionResults;
+    // [ default ] interface _EmotionResults
+    // interface _Object
+
+struct __declspec(uuid("9d8306ae-d078-359e-aedc-f0cced6a37e7"))
+NewSegmentEmotionArgs;
+    // [ default ] interface _NewSegmentEmotionArgs
+    // interface _Object
+
+struct __declspec(uuid("37014ed7-b13c-30ee-b589-9fa99fbe2b79"))
+LioNetForgetArgs;
+    // [ default ] interface _LioNetForgetArgs
+    // interface _Object
+
+struct __declspec(uuid("69ab9858-231c-303e-85e9-d6105298157f"))
+FifoStream;
+    // [ default ] interface _FifoStream
+    // interface _Object
+    // interface IDisposable
+
+struct __declspec(uuid("a03a4938-6dc0-347c-bd2d-db892c01f014"))
+ForgetCallClassificationArgs;
+    // [ default ] interface _ForgetCallClassificationArgs
+    // interface _Object
+
+struct __declspec(uuid("ad0645b2-a1a8-36b1-ae29-2689e3b8a2d3"))
+BufferFillEventHandler;
+    // [ default ] interface _BufferFillEventHandler
+    // interface _Delegate
+    // interface _Object
+    // interface ICloneable
+    // interface ISerializable
+
+struct __declspec(uuid("49c66756-bbd6-3e07-b15a-15bf3d961f6c"))
+WaveOutPlayer;
+    // [ default ] interface _WaveOutPlayer
+    // interface _Object
+    // interface IDisposable
+
+enum __declspec(uuid("21779641-9d3a-3f80-8ff9-fa20cd6948ae"))
+WaveFormats
+{
+    WaveFormats_Pcm = 1,
+    WaveFormats_Float = 3
+};
+
+#pragma pack(push, 4)
+
+struct __declspec(uuid("e496c028-2470-3549-ab40-7fb962229d51"))
+WaveFormat
+{
+    short wFormatTag;
+    short nChannels;
+    long nSamplesPerSec;
+    long nAvgBytesPerSec;
+    short nBlockAlign;
+    short wBitsPerSample;
+    short cbSize;
+};
+
+#pragma pack(pop)
+
+struct __declspec(uuid("8f02037d-f5e2-3b1e-a7e7-03f13461834f"))
+NewCallEmotionalArgs;
+    // [ default ] interface _NewCallEmotionalArgs
+    // interface _Object
+
+struct __declspec(uuid("e7c0dcbe-e135-322e-a2b1-c6380ffde8eb"))
+WaveStream;
+    // [ default ] interface _WaveStream
+    // interface _Object
+    // interface IDisposable
+
+struct __declspec(uuid("b2548b15-b5b5-343b-9286-b6394c66fcdb"))
+SegmentClickedArgs;
+    // [ default ] interface _SegmentClickedArgs
+    // interface _Object
+
+struct __declspec(uuid("64f571fc-4877-3f75-b5a3-387d54ed6038"))
+FileSelectedArgs;
+    // [ default ] interface _FileSelectedArgs
+    // interface _Object
+
+#pragma pack(push, 4)
+
+struct __declspec(uuid("c1866bfa-23a5-340a-aa78-8b32d52ac2bf"))
+DominantEmotion
+{
+    short value;
+    LPSTR Type;
+};
+
+#pragma pack(pop)
+
+struct __declspec(uuid("ddf47367-c95a-36a8-9e6c-068600f452a6"))
+ColumnClickArgs;
+    // [ default ] interface _ColumnClickArgs
+    // interface _Object
+
+struct __declspec(uuid("02d0c499-22b0-3e11-ac69-24e2f072dbaf"))
+_EnvelopData : IDispatch
+{};
+
+struct __declspec(uuid("3c6ff616-ec21-3807-973e-847ddddf4d31"))
+_ClassifySegmentArgs : IDispatch
+{};
+
+struct __declspec(uuid("489e4255-9be4-36a0-b7d5-8c152e02e458"))
+_ClassifyCallArgs : IDispatch
+{};
+
+struct __declspec(uuid("97c3b7a6-4647-362a-bc64-6cfb6cfb25f8"))
+_BufferDoneEventHandler : IDispatch
+{};
+
+struct __declspec(uuid("d586d0d6-6a9a-323e-b086-82c2344f97b3"))
+_WaveInRecorder : IDispatch
+{};
+
+struct __declspec(uuid("d6a9ae02-2e1d-3d35-9c07-42fd2dd0d2f7"))
+_ManagedClass : IDispatch
+{};
+
+struct __declspec(uuid("c1b414b2-3100-3511-ba73-20342446f944"))
+_EmotionResults : IDispatch
+{};
+
+struct __declspec(uuid("692fce98-7ce4-3e49-8ad8-87dff7020f10"))
+IQA5UI : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+    virtual HRESULT _VtblGapPlaceholder1( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder2( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder3( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder4( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder5( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder6( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder7( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder8( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder9( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder10( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder11( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder12( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder13( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder14( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder15( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder16( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder17( ) { return E_NOTIMPL; }
+    virtual HRESULT _VtblGapPlaceholder18( ) { return E_NOTIMPL; }
+      virtual HRESULT __stdcall add_UiIsGoingToClose (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall remove_UiIsGoingToClose (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall add_RetrieveLicenseDetails (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall remove_RetrieveLicenseDetails (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall add_UpdateBordersFile (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall remove_UpdateBordersFile (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall add_ShowBordersOnGraph (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall remove_ShowBordersOnGraph (
+        /*[in]*/ struct _EventHandler * value ) = 0;
+      virtual HRESULT __stdcall put_HighlightAngerTrendLevel (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall get_MaxAngerTrandLevel (
+        /*[out,retval]*/ double * pRetVal ) = 0;
+      virtual HRESULT __stdcall put_AngerTrendLevel (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall get_AlarmIfStressTrendIsRaisingAndAbove (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall get_AlarmIfAngerTrendIsRaisingAndAbove (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall put_HighlightStressTrendLevel (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall get_MaxStressTrendLevel (
+        /*[out,retval]*/ double * pRetVal ) = 0;
+      virtual HRESULT __stdcall put_NotifyStressLevelIsRaising (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall put_StressTrendLevel (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall get_AlarmIfStressTrendIsLow (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall put_HighlightEnergyTrendIsRaisingFor (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall put_HighlightEnergyLevelBelow (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall put_EnergyDifference (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall put_EnrgyHighSegments (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall put_EnergyTrendIsRaisingFor (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall put_HighlightEnergyLevel (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall put_NotifySpeakerIsTired (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall put_EnergyLevelBelow (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall put_NotifyCallIsOutOfAcceptableLevels (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall get_LimitForEnergyTrendIsRaisingFor (
+        /*[out,retval]*/ long * pRetVal ) = 0;
+      virtual HRESULT __stdcall get_LimitForEnergyLevelBelow (
+        /*[out,retval]*/ double * pRetVal ) = 0;
+      virtual HRESULT __stdcall get_DataChannelNumber (
+        /*[out,retval]*/ unsigned char * pRetVal ) = 0;
+      virtual HRESULT __stdcall AddSegmentToList (
+        /*[in]*/ long segCount,
+        /*[in]*/ BSTR bstring,
+        /*[in]*/ long sPos,
+        /*[in]*/ long fPos,
+        /*[in]*/ struct _EmotionResults * emoVals,
+        /*[in]*/ BSTR onlineFlag,
+        /*[in]*/ BSTR comment ) = 0;
+      virtual HRESULT __stdcall CreateSegmentAudioFiles (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall DrawData (
+        /*[in]*/ SAFEARRAY * data,
+        /*[in]*/ double min,
+        /*[in]*/ double max,
+        /*[in]*/ double avg,
+        /*[in]*/ long scaleMin,
+        /*[in]*/ long scaleMax,
+        /*[in]*/ long column ) = 0;
+      virtual HRESULT __stdcall DrawSegment (
+        /*[in]*/ SAFEARRAY * segmentData ) = 0;
+      virtual HRESULT __stdcall DrawSegment_2 (
+        /*[in]*/ SAFEARRAY * segmentData ) = 0;
+      virtual HRESULT __stdcall GetAnalysisType (
+        /*[out,retval]*/ long * pRetVal ) = 0;
+      virtual HRESULT __stdcall GetBackgroundLevel (
+        /*[out,retval]*/ short * pRetVal ) = 0;
+      virtual HRESULT __stdcall GetCalibrationType (
+        /*[out,retval]*/ short * pRetVal ) = 0;
+      virtual HRESULT __stdcall GetSegemtsDataFromColumn (
+        /*[in]*/ long column,
+        /*[out]*/ double * min,
+        /*[out]*/ double * max,
+        /*[out]*/ double * avg,
+        /*[out,retval]*/ SAFEARRAY * * pRetVal ) = 0;
+      virtual HRESULT __stdcall IsOneSecondBufferUsed (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall IsSegmentOutOfLimits (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall NeedToPlayEachSegment (
+        /*[out,retval]*/ VARIANT_BOOL * pRetVal ) = 0;
+      virtual HRESULT __stdcall Reset ( ) = 0;
+      virtual HRESULT __stdcall SetBGLevel (
+        /*[in]*/ long level ) = 0;
+      virtual HRESULT __stdcall SetLionetUserDefinedEmotions (
+        /*[in]*/ SAFEARRAY * emotions ) = 0;
+      virtual HRESULT __stdcall SetUserDefinedSegmentEmotions (
+        /*[in]*/ SAFEARRAY * segmentEmotions ) = 0;
+      virtual HRESULT __stdcall ShowMessage (
+        /*[in]*/ BSTR message ) = 0;
+      virtual HRESULT __stdcall ShowLicenseScreen ( ) = 0;
+      virtual HRESULT __stdcall ShowProfile (
+        /*[in]*/ short emoLevel,
+        /*[in]*/ short logicalLevel,
+        /*[in]*/ short hasitantLevel,
+        /*[in]*/ short stressLevel,
+        /*[in]*/ short energeticLevel,
+        /*[in]*/ short thinkingLevel ) = 0;
+      virtual HRESULT __stdcall UpdateCallPriority (
+        /*[in]*/ long segmentID,
+        /*[in]*/ long callPriority,
+        /*[in]*/ long stressSegs,
+        /*[in]*/ long angerSegs,
+        /*[in]*/ long upsetSegs ) = 0;
+      virtual HRESULT __stdcall UpdateHistoryBars (
+        /*[in]*/ struct _EmotionResults * emoVals ) = 0;
+      virtual HRESULT __stdcall UpdateProfile (
+        /*[in]*/ short emoLevel,
+        /*[in]*/ short logicalLevel,
+        /*[in]*/ short hasitantLevel,
+        /*[in]*/ short stressLevel,
+        /*[in]*/ short energeticLevel,
+        /*[in]*/ short thinkingLevel ) = 0;
+      virtual HRESULT __stdcall GetCurrentAiResultForSegment (
+        /*[in]*/ long segmentID,
+        /*[out,retval]*/ BSTR * pRetVal ) = 0;
+      virtual HRESULT __stdcall SetAiResultForSegment (
+        /*[in]*/ long segmentID,
+        /*[in]*/ BSTR aiResult ) = 0;
+      virtual HRESULT __stdcall FreezTables ( ) = 0;
+      virtual HRESULT __stdcall UnFreezTables ( ) = 0;
+      virtual HRESULT __stdcall SetCallLioNetAnalysis (
+        /*[in]*/ BSTR lioNetCallAnalysis ) = 0;
+      virtual HRESULT __stdcall SetCallEmotionalSignature (
+        /*[in]*/ BSTR signature ) = 0;
+      virtual HRESULT __stdcall SetCallProfile (
+        /*[in]*/ BSTR callProfile ) = 0;
+      virtual HRESULT __stdcall SetNetAccuracy (
+        /*[in]*/ BSTR netAccuracy ) = 0;
+      virtual HRESULT __stdcall SetLicenseDetails (
+        /*[in]*/ BSTR sysID,
+        /*[in]*/ long callCounter,
+        /*[in]*/ short postsLicensed,
+        /*[in]*/ long runningProcesses,
+        /*[in]*/ BSTR coreVersion ) = 0;
+      virtual HRESULT __stdcall SetConversationBordersData (
+        /*[in]*/ struct _Array * callBordersData ) = 0;
+      virtual HRESULT __stdcall SetEnvelopAndBordersReport (
+        /*[in]*/ BSTR report ) = 0;
+      virtual HRESULT __stdcall DrawBorders (
+        /*[in]*/ SAFEARRAY * callBordersData,
+        /*[in]*/ SAFEARRAY * EnvelopData ) = 0;
+      virtual HRESULT __stdcall SetEnergyLevel (
+        /*[in]*/ double enrgy,
+        /*[in]*/ VARIANT_BOOL highlited ) = 0;
+      virtual HRESULT __stdcall AddCallRecord (
+        /*[in]*/ BSTR fileName,
+        /*[in]*/ struct TimeSpan processingTime,
+        /*[in]*/ long callMaxPriorityFlag,
+        /*[in]*/ long callPriority,
+        /*[in]*/ BSTR lioRes,
+        /*[in]*/ double overallBordersDistance,
+        /*[in]*/ BSTR angryPersent,
+        /*[in]*/ BSTR stressPersent,
+        /*[in]*/ BSTR upsetPersent,
+        /*[in]*/ short agentRank,
+        /*[in]*/ double avgVoiceEnergy ) = 0;
+};
+
+struct __declspec(uuid("0ac96eae-817f-3d3f-9ee6-c83e2df4a6ce"))
+_NewSegmentEmotionArgs : IDispatch
+{};
+
+struct __declspec(uuid("55dbcdc6-1faf-3693-bea5-acac33be88b6"))
+_LioNetForgetArgs : IDispatch
+{};
+
+struct __declspec(uuid("8ab94a72-92a2-3b7b-9fc0-18eefb197528"))
+_FifoStream : IDispatch
+{};
+
+struct __declspec(uuid("e5c6f396-9fd1-3c4e-bd81-f166fa357175"))
+_ForgetCallClassificationArgs : IDispatch
+{};
+
+struct __declspec(uuid("04e99753-7aeb-37be-b364-90d1e9b8dec3"))
+_BufferFillEventHandler : IDispatch
+{};
+
+struct __declspec(uuid("58c0aab8-cb49-3fb1-bd3d-97765aeab77d"))
+_WaveOutPlayer : IDispatch
+{};
+
+struct __declspec(uuid("788ade13-ed6a-379f-ae53-0b35dd80329c"))
+_NewCallEmotionalArgs : IDispatch
+{};
+
+struct __declspec(uuid("667ba6d8-6201-3f4a-b214-db1b2bfc3bae"))
+_WaveStream : IDispatch
+{};
+
+struct __declspec(uuid("37916277-7e10-3f4c-945e-2ddd2c514520"))
+_SegmentClickedArgs : IDispatch
+{};
+
+struct __declspec(uuid("a0f10ab1-8caa-3558-91e6-72c0410fc188"))
+_FileSelectedArgs : IDispatch
+{};
+
+struct __declspec(uuid("26707998-6b8a-329a-961b-611a114cfe56"))
+_ColumnClickArgs : IDispatch
+{};
+
+} // namespace nmsVoiceAnalysisLibrary
+
+#pragma pack(pop)

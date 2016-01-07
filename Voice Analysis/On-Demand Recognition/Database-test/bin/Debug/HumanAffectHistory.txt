@@ -1,0 +1,23 @@
+-> File  41.wav 
+-> File  42.wav 
+-> File  43.wav 
+-> File  44.wav 
+-> File  45.wav 
+-> File  46_new.wav 
+-> File  47.wav 
+-> File  48.wav 
+-> File  49.wav 
+-> File  49_new.wav 
+-> File  50_new.wav 
+-> File  h41.wav 
+-> File  h42.wav 
+-> File  h43.wav 
+-> File  h44.wav 
+-> File  h45.wav 
+-> File  h46.wav 
+-> File  h47.wav 
+-> File  h48.wav 
+-> File  h49_new.wav 
+-> File  h50.wav 
+##### Processing Files in the Directory #####
+C:\Users\ASB Workstation\Desktop\Yuma\semaine_additional_12102015\sad_16bit_11025hz

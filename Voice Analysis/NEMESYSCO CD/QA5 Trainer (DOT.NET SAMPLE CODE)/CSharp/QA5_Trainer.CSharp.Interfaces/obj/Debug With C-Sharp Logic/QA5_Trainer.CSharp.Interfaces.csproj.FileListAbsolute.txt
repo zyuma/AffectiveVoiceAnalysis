@@ -1,0 +1,6 @@
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\CSharp\QA5_Trainer.CSharp.Interfaces\bin\Debug With C-Sharp Logic\QA5_Trainer.CSharp.Interfaces.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\CSharp\QA5_Trainer.CSharp.Interfaces\bin\Debug With C-Sharp Logic\QA5_Trainer.CSharp.Interfaces.pdb
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\CSharp\QA5_Trainer.CSharp.Interfaces\bin\Debug With C-Sharp Logic\Interop.QA5COM.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\CSharp\QA5_Trainer.CSharp.Interfaces\obj\Debug With C-Sharp Logic\ResolveAssemblyReference.cache
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\CSharp\QA5_Trainer.CSharp.Interfaces\obj\Debug With C-Sharp Logic\QA5_Trainer.CSharp.Interfaces.dll
+C:\Users\ASB Workstation\Desktop\Voice Analysis\NEMESYSCO CD\QA5 Trainer (DOT.NET SAMPLE CODE)\CSharp\QA5_Trainer.CSharp.Interfaces\obj\Debug With C-Sharp Logic\QA5_Trainer.CSharp.Interfaces.pdb
